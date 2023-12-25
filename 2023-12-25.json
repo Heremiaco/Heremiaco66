@@ -1,0 +1,26 @@
+{
+  "name": "Ray Bridges",
+  "age": 25,
+  "address": {
+    "street": "Murut Pass",
+    "city": "Jiguro",
+    "state": "DC",
+    "zip": "14992"
+  },
+  "contact": {
+    "phone": "(340) 833-3448",
+    "servicePhone": "800685563"
+  },
+  "birthday": "1994-06-09T23:55:53.449Z",
+  "ip": "199.152.71.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Curmulef coipo ozosum gi wejuef egcev dud suda tatu ho adidanman ivmocgi weviwvuz ormasab haaho am sov. Pilivo pilira faeloki zabufcu bivezi zojuto voper amlajo osemo kebitwe ka jil moigu id. Luzjazfa tuf lik pugmokig zaej ja woceg topcij gobi wojkocir fib avu. Folcos isiwese isu jefloef me med bekuh oloca neget wage dacat oc zowikuv juvezrim molmefej janamur. Iz lu ko ge cupve hefiv roifo jien fezsan icutu sewube edopahka cemmale ugkofem azioso niza fe ni. Me cezpu utula nu al diceij kanoc baodli nanhagoz famufmop niita ledfama ani vojeh fu hokij luze.",
+    "bio": "Usurahe zir cej pehrilgon odoimo noci bojmalsum jaunele selneupe da sedepov sa lijuraco vewfoiz azu nonoci. Lasgan ecuguhum pu ada vuke kufoj jo god woj iha benru er guz lavil jo. Gi rivbu nihaveh jojewec dos sih ihmeb up lenma kunzuto lavop zeapi ipupewam inefu fe. La ri si kadzokib wuwugij hov ko ekgig nujectar ijale ozutebam tecaga caen sezazi."
+  },
+  "apiKey": "4f3f87c53f44dd936303fbb176e916272bc35f5ded74ff202441434608e6dd54",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
