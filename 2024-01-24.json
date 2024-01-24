@@ -1,0 +1,26 @@
+{
+  "name": "Eugene Baker",
+  "age": 18,
+  "address": {
+    "street": "Icpe Heights",
+    "city": "Jagampe",
+    "state": "WI",
+    "zip": "80881"
+  },
+  "contact": {
+    "phone": "(253) 586-5974",
+    "servicePhone": "800357555"
+  },
+  "birthday": "1983-07-04T04:53:33.513Z",
+  "ip": "10.81.25.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Zir wabgi uleji tibjiw cetasi futsukbad ge biij pa abo golhoh tez kadizuve ameapo kihgo. Idbur rugli ri tuvohsap emvam cirmiuro ag na mep polfu locsuma nuec ijesaro fi niewuiw ciwek ecokiav. Makec zijo kuhnukhe vel sab uka demwinok ravimkin vihe udopo je mud.",
+    "bio": "Bav seab sogeloz wunbew nov fep du gunzobgi bajekmi uhoezu pujded gon ko acuneaga ve ozwarupo ceuciwod. Kedvuwo ik cem gosiso adawe ma nohu wotococ gurer su lu tulvajpo. Vu ja zerzuvij eh co mop ahahipzi jibow ataba zin ebso suruvo bazipak cewro buc tod ka."
+  },
+  "apiKey": "71ae9ac1f86d76db580956841bb6f9c376064174b4f69ab30da4dfac22e0e503",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
