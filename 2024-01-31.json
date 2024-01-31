@@ -1,0 +1,26 @@
+{
+  "name": "Victor Wolfe",
+  "age": 46,
+  "address": {
+    "street": "Miali Path",
+    "city": "Nebronoc",
+    "state": "NE",
+    "zip": "96331"
+  },
+  "contact": {
+    "phone": "(929) 578-3217",
+    "servicePhone": "800184877"
+  },
+  "birthday": "1969-12-08T04:36:29.735Z",
+  "ip": "43.21.113.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Dijdim veifeza ci nazeje jit juorbur ocozud cibforred nufniva og zo owtefuw ili hupocu. Pino jede seb ra ucne egwumme amori haice usefevif hoezucaf bebsif fewkan epja. Urut vo vajo jetospe jopgocar ba zibseg nitsif fi odo dizbu kaahe. Agicoplo cewicmoj lekecle ewagowoj ce haamcu zu vu takja me tamaja em busso jewuc. Hu nawa gipito befduvew edaka ecgi uz hozin fe bo jan notveh ta ne edrawtir jupzozzu gu kiwhap. Bar he wenem noigsew fe bo ikcukjod rafhe baihmov jof weawowa solum evirjag gesukni uloto wuwduk.",
+    "bio": "Mufil bidi jucop zu nadpilta umsodfa zumozaci ucokop burregzo dagro hifaar tuwatube kaca weku potdiza fe papnu vurauni. Wakce orukot zitfoez mivup pepubena goh alugima jig gi if sikfe halpislo. La ruvtesil kopipa rarulima isiuho loomsu mowjur fa sewsurbo suvfosgep umbewetu muhwah nob ileca galibov fiwop hisikaju foomiju."
+  },
+  "apiKey": "5951145ed80fe71a079d239cd87f7003c2b38f6cac993f454874049fe4d233ea",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
