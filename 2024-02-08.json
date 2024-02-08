@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Patrick",
+  "age": 25,
+  "address": {
+    "street": "Jiso River",
+    "city": "Mimomsa",
+    "state": "WV",
+    "zip": "64039"
+  },
+  "contact": {
+    "phone": "(421) 911-5274",
+    "servicePhone": "800564468"
+  },
+  "birthday": "1978-04-07T15:14:36.274Z",
+  "ip": "75.103.148.218",
+  "foo": "bar",
+  "profile": {
+    "about": "Filkebabi gantu mizit oso iwu je anezedcu ruz icunle juuj anoga teufagos zed weh bozgebow fagkelo jicjora bonu. Sofgi ha haov coz hasa ra pataf revapif ve rud rijmecgu likmudofe cigesuko halnukwib re naij nurpu. Het nuwoc ilocib powu neviw cihgag bafu fooszul golace kodge tubtak kasawbed fegiz fi bielmo.",
+    "bio": "Coecit gej biol olda ibwugsi ta jiru hu soddo kidme va aduti mezam ubi. Nasjazili bohnit uro ga furillos bijdi luwalvi eta gugizwe se ilozel sadef gukagu. Diw cif buluciop ulageme wolteriv ibgu fiw mopzaz jace uguri wepidul irho idosu."
+  },
+  "apiKey": "fe179e92662acb77fde76c0b430c7b75fc9ffd8810062ef4c39a692837eeb4ae",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
