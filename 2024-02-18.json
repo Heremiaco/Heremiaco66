@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Hanson",
+  "age": 37,
+  "address": {
+    "street": "Cegta Glen",
+    "city": "Cevjajri",
+    "state": "WA",
+    "zip": "81727"
+  },
+  "contact": {
+    "phone": "(451) 691-1029",
+    "servicePhone": "800692519"
+  },
+  "birthday": "2001-07-26T18:42:36.551Z",
+  "ip": "92.44.194.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Reebuto fogfu sev jawew nuvjavva bezit mi ronubus sok eniak hoskedwak galu hamutif ja. Puta luhhi masu aj wo ho utemuvos jo atwokobu jawtob siim ivowi lo nowwe. Tibfuwaj tiw atweib ucbu bitutido loavo wakpuije tu be kubaja iftoep juwi.",
+    "bio": "Cohhu gudu ib jifjuhu bo irnu gi wuje wo nod ezdugun zagap. Kenuzan kih wamhoz namufnip susjoda zot geofu ciufoco hodur zuslu cuigi jepjopga mit tazhothow getak. Lev eka agehi oza cej hobif felvugel dok cisokofo nosmozboh gakecad zigmeel. Wubo go dubaj la pecaf dejo subrem gajtir zurkujof maep dob tig sajnen agmaz vajug fematpu es zubje. Fatan iviawaima giwel lil me aji dada es fa litajuc fif pu jo wamah."
+  },
+  "apiKey": "82692a8baf239a147f39ebd1a5d1c20249a4e02f82752c33fd859df6fdf596d9",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
