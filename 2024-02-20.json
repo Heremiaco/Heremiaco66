@@ -1,0 +1,26 @@
+{
+  "name": "Joe Hodges",
+  "age": 23,
+  "address": {
+    "street": "Ibig Place",
+    "city": "Kaawjit",
+    "state": "GA",
+    "zip": "49394"
+  },
+  "contact": {
+    "phone": "(507) 319-3334",
+    "servicePhone": "800764787"
+  },
+  "birthday": "1991-12-01T03:38:31.438Z",
+  "ip": "11.144.125.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Ofafuega vapamlek hewlab mardiku hujliw se bo delaguvi muvgih kobtihja difusu ure wodaah sap le jeeguzab usuhar foocug. Canwoz tomofo kojzit pioze rek di cu upucupgob ec ajini kipohad gac za elvijge vuni siririp baz kidibve. Nehegre neogze elvew tuf renuprac ma luw ozamovo juji vojcegkas asfi eg rugovub. Co icjo hudjic za cu kah juhces giokoer usahol meudec ko wid paevdeh licif de atiikku. Dozcahe izgolza kiv jeofo oz peruf epiuja jag masu her aw itpena beraazo bebivcu kiw. Eksukjud ope midude gowi legmuhin vonog wakihos baf ino riztioc pufu idimigovi poino mug camja juser mitmof pobolle.",
+    "bio": "Ezki oc nuhi habas budvod icful ri fus ej ava oh uf hawjaw. Selwu mu ijecofu kabru ihfac vi lucem tu hoj arejil od pu eve. Tupew iculu sero tetakvi wodopha uvibeb ti gubfu ruocu ubi godatim ehnalmam risov muhif wiwjulcas fodoti."
+  },
+  "apiKey": "d3a0f0837daa36dda97885d07f174ffedf50bb4bf484d29c41fca25edccc9aec",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
