@@ -1,0 +1,26 @@
+{
+  "name": "Leon Hart",
+  "age": 62,
+  "address": {
+    "street": "Ziwa Road",
+    "city": "Rivjerri",
+    "state": "LA",
+    "zip": "91791"
+  },
+  "contact": {
+    "phone": "(621) 627-5307",
+    "servicePhone": "800788315"
+  },
+  "birthday": "1977-09-09T06:49:40.261Z",
+  "ip": "144.141.40.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Zot ziaba cota wevguru lonahal vu muomi atboc edwe dief neusu siet jil nuisi zi vof semuthih. Dutiwo seva ede su telsi koma hawa ewolor sivri ezguwol wukusfu ejobirow nodit. Na sufenmos mohola om ifeenuca zejelut ez ak ohu soju ogmemu ewi uwlopcem bu urozu hek fojlina. Jadbiv dase luonson nibicev vos levuvko du me uso zasoszu zoh domom kuzfihes viac ruzu de tozop. Igzazlur gohipjug sifufci vicuva ut filur ko baki vot hafzeje se hurjuk mig si gogase jowatiz.",
+    "bio": "Icieku pozagu leb couc or maddij semasup radzubah baboil wobitluw luiv duwaosa ciedda zi olo ostejva mehuvpi. Vum cu nibdak rojhajjir nam fikbe uhdatil ag pivuh ja elhi zisebi war. Majewrun gut evule bakcodi pozaf ukejo obo erit micpu ice cuhoc ofse johhudiw puser lo."
+  },
+  "apiKey": "3480a27cb1671ce87a8eb85155865c5b65ea282734fb9b30ddd05ca5aa17ae69",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}
