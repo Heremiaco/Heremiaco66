@@ -1,0 +1,26 @@
+{
+  "name": "Margaret Caldwell",
+  "age": 47,
+  "address": {
+    "street": "Pohu Loop",
+    "city": "Kievari",
+    "state": "WV",
+    "zip": "35058"
+  },
+  "contact": {
+    "phone": "(400) 722-9306",
+    "servicePhone": "800891391"
+  },
+  "birthday": "1973-03-03T12:21:17.801Z",
+  "ip": "164.254.137.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Kawob hi tiz mol haen jaba viweroj da kokoju cabuc up kirmeki nabcavta fib ekham iguvupob abami. Abeufpa asava ajide tabwupha tumi mik caga ehouf oru diceza pot cib lawbornad ir gu dimkes ra. Uwo gazihgil wub nacifka kosunzuv lavpuvoh apuminaj iwirima cu liba wok fi humvicum jo. Havumo zofkobir bepjida hujop riviz hasalawo le pegibfu reduk ku fuvocesa malunim sepum ef.",
+    "bio": "Nut hu lihesi ogojmet mo diune logkuecu teddol sinze ga humralli pifam. Aw ket cud vicubom ewse sajur wug pe in bo tiute agazi dapifo abuwumuta mamowica aduniem esjiwijo. Om dikpamzi cageki atupop zaj ifiziw uhipori rub un jatva depgul dukurne."
+  },
+  "apiKey": "b0fc28fef93efbc05f6899d13f58f7a319b1433ffa1d4dfef4766b175f7ebdef",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
