@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Jackson",
+  "age": 62,
+  "address": {
+    "street": "Kisvap Pass",
+    "city": "Wolevov",
+    "state": "OR",
+    "zip": "00571"
+  },
+  "contact": {
+    "phone": "(301) 467-9036",
+    "servicePhone": "800317327"
+  },
+  "birthday": "1966-01-24T07:24:29.426Z",
+  "ip": "174.221.191.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Hov edu oju hehhum nijidak jibet housa ju cime tonwoep ipe wi goseb boki gar zuevdo mes. Ize tef kujcugdup ebzel vacwacfug si ho abigegha wu moce gori uf kivoro mi ugunirvog. Cu pu tifu avgi woptatfu jorudget vuahu ivweti izo nacla gicupog jorop wifha tobcu ce fofa befpu bulozni.",
+    "bio": "Bosmucpi iti tispo umopol em cu rultuplam gito huwbegwu dowop imizezita dibi tapizut. Acu nev dof lu wih bagead sati wa gittule wazos ciba he ral sifiset ul eloikepe hefhupo. Utziwu juh pidcak bisdij hopdu wi uca nalvo vi ho nediv cemza kicbeta bu codmov pevmehgi akukaoku tizre. Tanozdu egu uhe bisumhod jo wu za ahorid tanhi ecuhan erizvu soz wah."
+  },
+  "apiKey": "a682d21c41fbe9d81f0fa73b3c9c3aa97d7c5cad26f10fc7d9c7b2d9e901d70d",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
