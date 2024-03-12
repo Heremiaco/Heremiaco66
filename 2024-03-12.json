@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Sharp",
+  "age": 50,
+  "address": {
+    "street": "Rovwo Road",
+    "city": "Utminde",
+    "state": "KS",
+    "zip": "92272"
+  },
+  "contact": {
+    "phone": "(470) 982-2380",
+    "servicePhone": "800584967"
+  },
+  "birthday": "2000-08-28T20:42:26.088Z",
+  "ip": "162.164.108.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Cihu hog rak wu ifovo hawgi kakub pe elifakras popumo lebazhe cuv radamge nadjij fasala. Ocon enu wapgaf kovosug depiv gochelnoz ite usisis efe vokuwa saj wovobrat am. Ine got me zehzuffe ekko zivkis kebki needpod ja uda ge vurdagneb ho jo.",
+    "bio": "Ose odbikze topinoh eg ove hi vovefel uvuga la cawodnih ni vud gouv bojopi wacdes nigolwez gekkizgoj. Ohhah encuv gu bewnijmuj cogumuba zitaahe ronvaj vocjicuc vid efad rucoja zab culnicfen onararpap. Moipa ba kep jamos dod dopube oro gomeb fu ocono fudviz ohip hos gabep ciji zutupjiv dac. Puito pa terowfa oladece edo pobek dakorzer pilon nehkabew zen jecnum ca juat novvub mebazin gol danizu."
+  },
+  "apiKey": "1fa2b18e25986574cebdda56896be01415cf59b243a059fe6683c6485ca4f4dd",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
