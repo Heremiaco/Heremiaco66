@@ -1,0 +1,26 @@
+{
+  "name": "Katherine Harris",
+  "age": 51,
+  "address": {
+    "street": "Afmo Square",
+    "city": "Ruzevder",
+    "state": "AR",
+    "zip": "92423"
+  },
+  "contact": {
+    "phone": "(576) 556-7913",
+    "servicePhone": "800347477"
+  },
+  "birthday": "1988-03-26T13:55:16.149Z",
+  "ip": "234.249.187.171",
+  "foo": "bar",
+  "profile": {
+    "about": "Jif copco tedde guwo kugako azlagheb sivu mun kozimge kih bad lihako do. Ribnow rija od lo ra kidawep aznu fupedcu jokmujic maaw zicniri wukmu. Re caboj wovownus gilgah joja usiuteip libad zutbezwot epe ruv ikoejmen se uc obumahcuh lec ezbe.",
+    "bio": "Noljupror tutago fetwapupu vofaodi jidfob oguraj ok lubgud wuivukuz ilecub jobke se hizohut fa solrota cidbeiwa defdew asug. Ligot pa ovmo uc tofpi huune picepwoz macoon sig guovani az kuefgug fo zah hugbuv. Odgiof ibikuca matoc pahosga baguen lezu ecpacci loda gehkiho aji efka houcfe. Ogigovjiw osa sajfi ujunop bopbukod fiwdo mosmope pewloke we jikpof dol mukgigibo do vib wur regonkor naema amwamab. Uwa gilar isjoam wiruwok seziil eka vufzuv efu dacmum obivi cus betkajgir ovuhaj dactowmi cocbov. Cu cis tazbobis kem bulacwor se kemke wab waz ge sevnurat caw pouhpe."
+  },
+  "apiKey": "855f9644f571fc10368fa906e0c335080be31650cca47e93ccc2cac977aef712",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
