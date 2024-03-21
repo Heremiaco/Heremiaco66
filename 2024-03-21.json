@@ -1,0 +1,26 @@
+{
+  "name": "Brett Holloway",
+  "age": 53,
+  "address": {
+    "street": "Pedkeg Path",
+    "city": "Sodholhi",
+    "state": "OK",
+    "zip": "27529"
+  },
+  "contact": {
+    "phone": "(278) 866-2750",
+    "servicePhone": "800662399"
+  },
+  "birthday": "2004-11-11T23:08:08.376Z",
+  "ip": "252.93.187.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Let af nojvipna cicmuani rup eremafme pa kabho eticajhe mup zuwor har hajgujegi doz pusbik ej kemrel. Edo iw livu age zaenuolo suuca uli morut zi jom evi zuun pihukfuj mubu mi. Rek temzibwap ho fojridbo baznen pacfos jawaume repemga itvefgi ojes ra ceg ik.",
+    "bio": "Er avhic borluw mit jeze nukaliw sibitaik porkizza eljalo tohaj mu fev bi loah. Rir fe anvuru nu ziniado ogcif to teptolcu nele ra caczo ose. Va tuvaja nel lonser ho naluksur lil ra cehomesew hoswuko deb wina vo. Omjoful hinesfob zejok diz dodas pamugzac avdut afawik poid zetetu dafanwe upiefufe aru. Haz lauk bubezha ohtaunu uha gaw su nor ek rod joaligat jagcej bubjuftin tenror ru co. Sahim jo loiwib vihuwwin ra pobkamos jupadja nokrurot cuhu zulap ridepcaf tas ow beplel naz lupvo vekuope. Ozi dihasgon or juszoliw avawu ine lompawu legu lernecobi zurucnoj wuj mibajtu tazji jiuwo up cinpaeme aj."
+  },
+  "apiKey": "e4fe3f86cc3973ac486bdc2f3d3fd77739025c07607cdb8c04546fc165a67b4d",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
