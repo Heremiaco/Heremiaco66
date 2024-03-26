@@ -1,0 +1,26 @@
+{
+  "name": "Walter Love",
+  "age": 35,
+  "address": {
+    "street": "Riis Circle",
+    "city": "Nolmekzi",
+    "state": "MN",
+    "zip": "20796"
+  },
+  "contact": {
+    "phone": "(720) 441-5712",
+    "servicePhone": "800619353"
+  },
+  "birthday": "1992-11-23T21:21:12.497Z",
+  "ip": "132.86.26.233",
+  "foo": "bar",
+  "profile": {
+    "about": "Lorhapvuk porahe fi ezagul du tol en jeszaf upvi os dirsefa vumebuk ub jigfuf kitbefdur. Dukucja detfufisa modi ca uwir og riv bogveti loridom fid debag ri pabbumi erisen jobivhuc nemello. Der lodotek lakufarid gisbe bisnupbi gahwico mu ude gewdoj notlati nim ittic wanot mam juzere loppom mooki telice. Fu udanawug wahuek do wom vubade esaru en ot oten vokev nodungew buinhi macmorcow. Udiko jaewul buhetum owmup pejajum zapaw po akcel sud muv zu okha. Da refu tu nigcow ihouvi erofin liak fouhu dedbi ni juz ma.",
+    "bio": "Ezoj vapaci eta ajuare olo watik luckucuj ovlem edmofuj hizre atpuf hom niwca wijipgi nacju. Ujhaneha imivor vupzuc lehikvu sehelivi dafgajevo zipowuj cusujna hugwuus ruhijvaw jeag ukba mumog. Nu wewuwsul linno lauw ig ze pi zu gojaku zom ligjo esuzac. Cigusula fop ras vetohpe big ce avsinso juv ozoz fonhacor puir segvoajo wuivmeh kac. We mihakget zu hi wegujo cumuc zopoagu udugat wojemnic fioc mistefo sud zirovdah mobo ikbud ikkuza tekzo jusenker. Keukueg rove ac faweuj haupito luwe ni meko zavab lum koipud seh cifizugo. Uwpu jaftarpoc guzilawez ebeariufa ote ordesre mo uh hijhec nuhe vecovfad nujta kadgi liecgag jenisbuc netpezun di lewho."
+  },
+  "apiKey": "293aac8cdfe99eed153f1b93f59dc917dae02026792714a5ab1229f12691e852",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
