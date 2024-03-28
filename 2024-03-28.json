@@ -1,0 +1,26 @@
+{
+  "name": "Catherine McCarthy",
+  "age": 43,
+  "address": {
+    "street": "Uzse Way",
+    "city": "Ocilene",
+    "state": "HI",
+    "zip": "24643"
+  },
+  "contact": {
+    "phone": "(515) 723-5468",
+    "servicePhone": "800719765"
+  },
+  "birthday": "1971-04-22T12:41:13.815Z",
+  "ip": "238.203.151.188",
+  "foo": "bar",
+  "profile": {
+    "about": "Tu mo goj hab fiwjedcaz vino pamibeg ke vigu ico ma ipcojfo puhaveb voz wejgima isewnaj. Gu kevugja dimziz dolbu on ragutwit odi kebohde umomaja fidharem wuh jeva ho. Lufaj de wugfispi pesgoz asiaz rocdu semfuzlir losme ko uzuni te zeob pav ve. Fajci zul adsav vowja wozkup sefpu lak al ba ij oj peco ci uhwokel ag ziuwrev ov oj.",
+    "bio": "Manlo dun tafiwov aw zuhurom utaupod cuko bi va ni bus ca. Cokweto sad ra wo benta sied megbuh zap ragpev heb wewe da rodwin tezaf fuuz utvo. Tosbogik nuwuzat efpaco femunan cupelohol utenanpow ep judgu aviocoik we ge vusombef botzu ejiavu man ogiagva boreb."
+  },
+  "apiKey": "2feea1a5eeb7f39eae9379d6263af0aa7b1ee1755334be6c9b09b0d95673ff95",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
