@@ -1,0 +1,26 @@
+{
+  "name": "Harold Robinson",
+  "age": 51,
+  "address": {
+    "street": "Ewfi Loop",
+    "city": "Darediki",
+    "state": "HI",
+    "zip": "83626"
+  },
+  "contact": {
+    "phone": "(662) 629-9051",
+    "servicePhone": "800687986"
+  },
+  "birthday": "1995-01-25T18:07:53.417Z",
+  "ip": "245.247.211.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Bogadi fup hefe wugav vieco loh cejop eza gur rusvafire gaspelep di. Gofseit koh ovu um upe sijoj ibosuge avpobgo sa toruteh weol cat waice mon enjemzol. Doaclup fombura meid kanjabuli fuga da re ucoun dadfi ohuluele zoh bened mah ulbopag ujnezmup vimbaw temin gopujdew. Popgojwat fu lugahfe kize unu wamnuva pigivjek bapbopu gi da wirapvo vuwe cetmuj helmut eda nozbiir. Vufeb jaditi vow pufi sojko heskugciz bo vo dil zivundij zejipsuv awaabivev wivusno. Puj ku gebcutno iwoju ku ca con idemon zadca pali gesoubi derdok giwaiw pe gabli bimhiir zetlimho. Ririkju sunguhe patama sumem bejruwa tozacet tiduba ubikauhu sihmecmod jet sop bomoge ot.",
+    "bio": "Fab rugew humen hihopim anesijo ohjun vevez pugucij ujze pibico wa jimiw. Vurridzo zircemviv ujatodwo fo hawotow nuece jardumjuw savi dupgowo cisaclov hi zur. Lepremi he gioni vedjibvu wuvhuk ig jac rigubgec lujo wecuap zu givzevo hirowpim wen cohlini pol ta iriwib."
+  },
+  "apiKey": "aacd09de050e7210681d828d937fbe622ab5bd73148008235844ff33dc6745f2",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
