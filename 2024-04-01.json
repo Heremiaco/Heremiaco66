@@ -1,0 +1,26 @@
+{
+  "name": "Jim Thompson",
+  "age": 60,
+  "address": {
+    "street": "Velmel Street",
+    "city": "Kunrafat",
+    "state": "IA",
+    "zip": "08872"
+  },
+  "contact": {
+    "phone": "(531) 570-7380",
+    "servicePhone": "800379874"
+  },
+  "birthday": "1992-02-23T17:02:22.769Z",
+  "ip": "52.113.175.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Ep ditive hihle doz jac rosvimod iro mi fim zo lole rucabi. Nehil duham punjen fej rag ebjonga jisdi hijibaw detap pufje etida owoiwca vodfuoj daga woasifuw gi desute. Nu ze dup fipiwmo sudewuzuc us igutus efuruata gok tudur so hinahfi kilni bad tego.",
+    "bio": "Rilgi huupi an neumlet lib co tanvamup rudra biwvisip famze wa vipew nufzas. Inajo sim aha upna molaju towiren va gev gewzitu saktessa amicen fonho afjimda vuuwefi civiroili cewcic ja. Sawfiz upoadmu tauzo ak wofitgi veumet supvawu bo nov na awuweriv wabvok fozde ehiekomic galaj lunteki unitipga."
+  },
+  "apiKey": "ad45a4d0925e99ff312b584e4cae779554e23ee601be18c0d37fcc0412d4bb84",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
