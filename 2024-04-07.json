@@ -1,0 +1,26 @@
+{
+  "name": "Pearl Reese",
+  "age": 60,
+  "address": {
+    "street": "Sorsi Street",
+    "city": "Vuafimi",
+    "state": "LA",
+    "zip": "27296"
+  },
+  "contact": {
+    "phone": "(944) 976-9128",
+    "servicePhone": "800442176"
+  },
+  "birthday": "1963-04-16T10:56:31.459Z",
+  "ip": "38.172.46.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Rut owufis puf lub nem maico fumigo tufo maavo soltuwjo ju covoni imtugaj zuvezud hu fez enparis bi. Fomnipjud zi vujwovin wemro dehub em ul bu awe uksiwvuw eb zi veppi nu saw poh davtevze awsom. Za ne de urabita tohazuv citusni go bedek curogu si zof cu cuukwo ewmar etancob nolu.",
+    "bio": "Ge gaz zunsebtez pup ta tad ifir cavlado wille vanij vo acewuke mi dem ve co zu. Zep cozzeubu cehuh udegipjad dedceul bofwid awetohfi fim pib huhpebo ahjuculu aclu avvu. Iwo nin wi loruho joczos ti gujipag rilab liltiho vobub unkal rirehduv ricasod guna hikaipe pofewep rakjikci kejoto."
+  },
+  "apiKey": "3818e103b1442fe45863edaa3551fe4077c7eff14324c4c23b43a84c7beab8a0",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
